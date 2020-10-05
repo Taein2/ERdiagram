@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-05T10:59:04.252Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="rbOWL0BLX10CsnmfD6BM" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-05T10:59:12.248Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="U9AbVkrwyqQDuH5YMIjl" version="13.7.7" type="github">
   <diagram id="VaJ7-ko4y-uZnoXssvZx" name="Page-1">
     <mxGraphModel dx="1221" dy="682" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -292,7 +292,7 @@
         <mxCell id="TSpwij709v6648APm9oL-88" value="기간" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="560" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TSpwij709v6648APm9oL-89" value="의뢰&lt;br&gt;신청일" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TSpwij709v6648APm9oL-89" value="의뢰 날짜" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="560" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
