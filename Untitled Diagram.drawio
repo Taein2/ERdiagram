@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-05T09:47:10.211Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="0cuaPxkfiFSJ8YS0IQ-A" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-05T09:48:38.686Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="EMQiTao35wcrFjOaSkmC" version="13.7.7" type="github">
   <diagram id="VaJ7-ko4y-uZnoXssvZx" name="Page-1">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="180" y="150" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TSpwij709v6648APm9oL-3" value="인력" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="550" y="155" width="100" height="50" as="geometry" />
+          <mxGeometry x="590" y="150" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TSpwij709v6648APm9oL-4" value="고객" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="380" width="100" height="50" as="geometry" />
@@ -114,6 +114,24 @@
             <mxPoint x="430" y="320" as="sourcePoint" />
             <mxPoint x="480" y="270" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="TSpwij709v6648APm9oL-39" value="&lt;u&gt;인력번호&lt;/u&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="484" y="20" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TSpwij709v6648APm9oL-40" value="연차" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="20" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TSpwij709v6648APm9oL-41" value="이름" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="20" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TSpwij709v6648APm9oL-42" value="연락처" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="60" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TSpwij709v6648APm9oL-43" value="이름" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="100" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TSpwij709v6648APm9oL-44" value="이름" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="150" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
