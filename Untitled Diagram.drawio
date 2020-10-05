@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-05T09:43:29.685Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="tqpm3miuWK0vdWXsSGGa" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-05T09:44:19.485Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="tFi8_v3UIJhOP-BPRdm_" version="13.7.7" type="github">
   <diagram id="VaJ7-ko4y-uZnoXssvZx" name="Page-1">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -79,16 +79,16 @@
             <mxPoint x="319.5" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TSpwij709v6648APm9oL-30" value="직급" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TSpwij709v6648APm9oL-30" value="이름" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="400" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TSpwij709v6648APm9oL-31" value="직급" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TSpwij709v6648APm9oL-31" value="고객번호" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="450" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TSpwij709v6648APm9oL-32" value="직급" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TSpwij709v6648APm9oL-32" value="연락처" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="480" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TSpwij709v6648APm9oL-33" value="직급" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TSpwij709v6648APm9oL-33" value="담당고객&lt;br&gt;관리자" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="480" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
