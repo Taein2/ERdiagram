@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-05T09:48:43.324Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="iR2Nuc-8IST2n5A18fCq" version="13.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-05T09:49:15.999Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.121 Safari/537.36" etag="xtfLOm30VluGF5uTCpcm" version="13.7.7" type="github">
   <diagram id="VaJ7-ko4y-uZnoXssvZx" name="Page-1">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -127,11 +127,14 @@
         <mxCell id="TSpwij709v6648APm9oL-42" value="연락처" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="60" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TSpwij709v6648APm9oL-43" value="이름" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="TSpwij709v6648APm9oL-43" value="이메일" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="100" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TSpwij709v6648APm9oL-44" value="이름" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="750" y="150" width="80" height="40" as="geometry" />
+        <mxCell id="TSpwij709v6648APm9oL-44" value="업무" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="150" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="TSpwij709v6648APm9oL-45" value="담당&lt;br&gt;인력관리자" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="200" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
