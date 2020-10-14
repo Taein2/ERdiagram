@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2020-10-14T09:36:03.466Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="1o_JIzfn9oymWm9da6im" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-14T09:38:13.024Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="mKkaCMzWwaX-FAC-k5LL" version="13.8.0" type="github">
   <diagram id="VaJ7-ko4y-uZnoXssvZx" name="Page-1">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="TSpwij709v6648APm9oL-2" value="관리" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="TSpwij709v6648APm9oL-2" value="관리자" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="390" y="190" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="TSpwij709v6648APm9oL-3" value="인력" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -25,10 +25,10 @@
         <mxCell id="TSpwij709v6648APm9oL-15" value="직급" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="230" y="150" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TSpwij709v6648APm9oL-16" value="연락처" style="ellipse;whiteSpace=wrap;html=1;shadow=0;" parent="1" vertex="1">
+        <mxCell id="TSpwij709v6648APm9oL-16" value="" style="ellipse;whiteSpace=wrap;html=1;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="310" y="60" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="TSpwij709v6648APm9oL-17" value="이메일" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="TSpwij709v6648APm9oL-17" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="60" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TSpwij709v6648APm9oL-20" value="부서" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -318,6 +318,18 @@
             <mxPoint x="540" y="480" as="sourcePoint" />
             <mxPoint x="590" y="430" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="7XClBno-C3_MwLmugMre-4" value="" style="triangle;whiteSpace=wrap;html=1;shadow=0;gradientColor=none;fontFamily=Helvetica;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="417.5" y="280" width="45" height="105" as="geometry" />
+        </mxCell>
+        <mxCell id="7XClBno-C3_MwLmugMre-5" value="관리" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="420" y="315" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="7XClBno-C3_MwLmugMre-6" value="" style="ellipse;whiteSpace=wrap;html=1;shadow=0;gradientColor=none;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="540" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="7XClBno-C3_MwLmugMre-7" value="연락처" style="ellipse;whiteSpace=wrap;html=1;shadow=0;gradientColor=none;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="408.75" y="65" width="62.5" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
