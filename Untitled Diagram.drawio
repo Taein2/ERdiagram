@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-15T08:47:33.825Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="R7bt1wOAWBVSZp1cRN8O" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-15T08:48:35.449Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="rDYW30uwhOSiZOibaui0" version="13.8.0" type="github">
   <diagram id="VaJ7-ko4y-uZnoXssvZx" name="Page-1">
     <mxGraphModel dx="1038" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -325,7 +325,7 @@
             <mxPoint x="590" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7XClBno-C3_MwLmugMre-27" value="의뢰" style="rhombus;whiteSpace=wrap;html=1;shadow=0;gradientColor=none;fontFamily=Helvetica;" parent="1" vertex="1">
+        <mxCell id="7XClBno-C3_MwLmugMre-27" value="소유" style="rhombus;whiteSpace=wrap;html=1;shadow=0;gradientColor=none;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="340" y="400" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7XClBno-C3_MwLmugMre-29" value="" style="endArrow=none;html=1;fontFamily=Helvetica;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="7XClBno-C3_MwLmugMre-27" target="TSpwij709v6648APm9oL-5" edge="1">
@@ -373,7 +373,7 @@
         <mxCell id="AAbf7MKVsrqDV965MfIS-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AAbf7MKVsrqDV965MfIS-6" target="TSpwij709v6648APm9oL-80">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AAbf7MKVsrqDV965MfIS-6" value="제공" style="rhombus;whiteSpace=wrap;html=1;shadow=0;gradientColor=none;fontFamily=Helvetica;" vertex="1" parent="1">
+        <mxCell id="AAbf7MKVsrqDV965MfIS-6" value="의뢰" style="rhombus;whiteSpace=wrap;html=1;shadow=0;gradientColor=none;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="240.25" y="560" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AAbf7MKVsrqDV965MfIS-15" value="" style="endArrow=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="AAbf7MKVsrqDV965MfIS-6" target="TSpwij709v6648APm9oL-5">
