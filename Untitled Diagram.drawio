@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-16T05:31:30.887Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="YzyDYo_USNLnfBH91cAz" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-16T05:31:48.036Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="PMN6e9nqA2RsvSi4DD9L" version="13.8.0" type="github">
   <diagram id="VaJ7-ko4y-uZnoXssvZx" name="Page-1">
     <mxGraphModel dx="1483" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -215,7 +215,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TSpwij709v6648APm9oL-71" value="비용" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="537" y="1017" width="80" height="40" as="geometry" />
+          <mxGeometry x="652.13" y="980" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="TSpwij709v6648APm9oL-72" value="의뢰 서비스" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="505" y="740" width="80" height="40" as="geometry" />
@@ -347,7 +347,7 @@
           <mxGeometry x="230" y="535" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AAbf7MKVsrqDV965MfIS-17" value="의뢰 서비스" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="1010" width="80" height="40" as="geometry" />
+          <mxGeometry x="572.13" y="1000" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AAbf7MKVsrqDV965MfIS-20" value="의뢰 기간" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="389" y="753" width="80" height="40" as="geometry" />
@@ -467,7 +467,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AAbf7MKVsrqDV965MfIS-67" value="의뢰 고객명" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="457" y="1040" width="80" height="40" as="geometry" />
+          <mxGeometry x="489" y="1000" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AAbf7MKVsrqDV965MfIS-68" value="시설 분류" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="406.25" y="1000" width="80" height="40" as="geometry" />
