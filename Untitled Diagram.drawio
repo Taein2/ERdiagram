@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-16T05:31:48.036Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="PMN6e9nqA2RsvSi4DD9L" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-16T05:37:37.946Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="XSjFTS-28phlsR7lf5ku" version="13.8.0" type="github">
   <diagram id="VaJ7-ko4y-uZnoXssvZx" name="Page-1">
     <mxGraphModel dx="1483" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -350,7 +350,7 @@
           <mxGeometry x="572.13" y="1000" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AAbf7MKVsrqDV965MfIS-20" value="의뢰 기간" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="389" y="753" width="80" height="40" as="geometry" />
+          <mxGeometry x="160.25" y="630" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AAbf7MKVsrqDV965MfIS-21" value="" style="endArrow=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TSpwij709v6648APm9oL-80" target="AAbf7MKVsrqDV965MfIS-17">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -367,7 +367,7 @@
             <mxPoint x="573" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AAbf7MKVsrqDV965MfIS-25" value="" style="endArrow=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AAbf7MKVsrqDV965MfIS-45" target="AAbf7MKVsrqDV965MfIS-20">
+        <mxCell id="AAbf7MKVsrqDV965MfIS-25" value="" style="endArrow=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="AAbf7MKVsrqDV965MfIS-6" target="AAbf7MKVsrqDV965MfIS-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="509.9999999999999" y="703" as="sourcePoint" />
             <mxPoint x="901" y="553" as="targetPoint" />
@@ -412,7 +412,7 @@
         <mxCell id="AAbf7MKVsrqDV965MfIS-49" value="비용산출" style="rhombus;whiteSpace=wrap;html=1;shadow=0;gradientColor=none;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="430" y="793" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AAbf7MKVsrqDV965MfIS-50" value="의뢰 번호" style="ellipse;whiteSpace=wrap;html=1;fontStyle=4" vertex="1" parent="1">
+        <mxCell id="AAbf7MKVsrqDV965MfIS-50" value="서비스 번호" style="ellipse;whiteSpace=wrap;html=1;fontStyle=4" vertex="1" parent="1">
           <mxGeometry x="318.12" y="670" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AAbf7MKVsrqDV965MfIS-51" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="AAbf7MKVsrqDV965MfIS-50" target="AAbf7MKVsrqDV965MfIS-45">
@@ -479,6 +479,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="AAbf7MKVsrqDV965MfIS-70" value="" style="endArrow=none;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TSpwij709v6648APm9oL-80" target="AAbf7MKVsrqDV965MfIS-67">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="760" as="sourcePoint" />
+            <mxPoint x="560" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AAbf7MKVsrqDV965MfIS-71" value="담당&lt;br&gt;시설관리자" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="753" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AAbf7MKVsrqDV965MfIS-72" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="AAbf7MKVsrqDV965MfIS-71" target="AAbf7MKVsrqDV965MfIS-45">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="510" y="760" as="sourcePoint" />
             <mxPoint x="560" y="710" as="targetPoint" />
