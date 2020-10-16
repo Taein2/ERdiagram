@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-16T05:23:23.186Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="oJw4jr_PlCpuA5HFciKr" version="13.8.0" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-16T05:23:36.663Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.75 Safari/537.36" etag="iGhUFRDcxCBKaASgw5T9" version="13.8.0" type="github">
   <diagram id="VaJ7-ko4y-uZnoXssvZx" name="Page-1">
     <mxGraphModel dx="1483" dy="829" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -319,7 +319,7 @@
             <mxPoint x="550" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7XClBno-C3_MwLmugMre-36" value="고용" style="rhombus;whiteSpace=wrap;html=1;shadow=0;gradientColor=none;fontFamily=Helvetica;" parent="1" vertex="1">
+        <mxCell id="7XClBno-C3_MwLmugMre-36" value="업무" style="rhombus;whiteSpace=wrap;html=1;shadow=0;gradientColor=none;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="630" y="400" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7XClBno-C3_MwLmugMre-37" value="" style="endArrow=none;html=1;fontFamily=Helvetica;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="7XClBno-C3_MwLmugMre-36" target="TSpwij709v6648APm9oL-3" edge="1">
@@ -328,7 +328,7 @@
             <mxPoint x="550" y="450" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7XClBno-C3_MwLmugMre-43" value="업무" style="rhombus;whiteSpace=wrap;html=1;shadow=0;gradientColor=none;fontFamily=Helvetica;" parent="1" vertex="1">
+        <mxCell id="7XClBno-C3_MwLmugMre-43" value="고용" style="rhombus;whiteSpace=wrap;html=1;shadow=0;gradientColor=none;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="770" y="580" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="AAbf7MKVsrqDV965MfIS-1" value="" style="endArrow=none;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="7XClBno-C3_MwLmugMre-43" target="TSpwij709v6648APm9oL-3">
