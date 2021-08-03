@@ -1,1 +1,1 @@
-# little_hero
+# 데이터베이스 수업 ERD 모델링
